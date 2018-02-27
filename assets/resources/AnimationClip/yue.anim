@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yue",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 3,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8ce83f2d-6084-4412-b8e6-67479a31f5e3"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5f8df546-0644-4647-a652-60eb011169e9"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "6859c8a8-d542-49eb-aeed-983652ed9578"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "65bfd47e-3a60-42c2-bf15-a0dda2c12c91"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "1cbf333b-fc8e-4d80-8b8e-eeb323b6a778"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "021196b6-51cb-4ab4-adc1-c778baac4b65"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

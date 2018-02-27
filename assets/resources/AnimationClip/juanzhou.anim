@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "juanzhou",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.4833333333333334,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "juanzhou 2": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 1300
+            }
+          ]
+        }
+      },
+      "juanzhou 3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 354
+            },
+            {
+              "frame": 2,
+              "value": -296
+            }
+          ]
+        }
+      },
+      "goldLabel": {
+        "comps": {
+          "cc.Label": {
+            "string": []
+          }
+        }
+      },
+      "label": {
+        "props": {
+          "y": [],
+          "height": [
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 1100
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.4833333333333334,
+      "func": "showIcon",
+      "params": [
+        ""
+      ]
+    }
+  ]
+}

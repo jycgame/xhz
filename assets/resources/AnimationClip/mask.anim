@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mask",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 30,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "zi": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 800
+            }
+          ]
+        }
+      },
+      "zhezhao": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 375
+            },
+            {
+              "frame": 5,
+              "value": -425
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

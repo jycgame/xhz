@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "52fa10d2-ff23-4073-8acf-f722d1b1f7ec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "banzi 2": {
+      "ver": "1.0.3",
+      "uuid": "39348a4c-e87b-423f-bb4e-9d2230c123fe",
+      "rawTextureUuid": "52fa10d2-ff23-4073-8acf-f722d1b1f7ec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 923,
+      "height": 946,
+      "rawWidth": 923,
+      "rawHeight": 946,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
